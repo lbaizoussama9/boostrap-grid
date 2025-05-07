@@ -1,0 +1,15 @@
+
+.header-image {
+    background: url('https://images.unsplash.com/photo-1517638851339-0919b1f3f0ce') center/cover;
+    height: 400px;
+}
+.card-img-top {
+
+    height: 100px;
+    width: 100px;
+}
+.img-fluid {
+
+    width: 50vh;
+    height: 50vw;
+}
